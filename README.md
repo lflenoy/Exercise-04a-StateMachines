@@ -3,6 +3,9 @@
 ## Implementation
 Which features you included.
 
+ - Created an animation controller for a character
+ - Animated the character based on their actions
+
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -12,4 +15,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Leya Flenoy
